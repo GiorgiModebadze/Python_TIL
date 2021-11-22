@@ -1,2 +1,2 @@
 # Python_TIL
-small code snippets I randomly come by 
+Interesting things I might come by day to day about python
