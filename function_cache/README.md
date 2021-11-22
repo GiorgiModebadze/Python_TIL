@@ -14,4 +14,6 @@ def fib(n):
 
 for large numbers fib function will take excessive amount of time to calculate, using cache will cache each run and speed up process 
 
-P.s This cuould have been done faster with generators as well
+If you do things over and over again caching what function returns will speed up run
+
+[Source](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
