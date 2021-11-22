@@ -17,3 +17,5 @@ for large numbers fib function will take excessive amount of time to calculate, 
 If you do things over and over again caching what function returns will speed up run
 
 [Source](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
+
+[Official Documentation](https://docs.python.org/3/library/functools.html)
